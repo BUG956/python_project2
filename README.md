@@ -1,0 +1,1 @@
+this code simulates rolling a six-sided die 10 times and selecting 4 unique winning lottery balls from a list of numbers and letters. It then prints the results of the die rolls and the winning lottery balls.
